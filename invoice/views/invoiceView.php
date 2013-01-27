@@ -14,7 +14,7 @@
       data-dojo-config="async: true"></script>
     <script src="scripts/loadData.js"></script>    
 </head>
-<body>
+<body class="claro">
     <div id="grid"></div>
 </body>
 </html>
