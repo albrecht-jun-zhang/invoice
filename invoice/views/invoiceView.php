@@ -3,7 +3,7 @@
 <html>
 <head>    
     <meta charset="utf-8">
-    <title>Tutorial: Hello dgrid!</title>
+    <title>Invoice</title>
     <!--  Load stylesheets -->
     <link rel="stylesheet" href="dojo/resources/dojo.css"/>
     <link rel="stylesheet" href="dgrid/css/dgrid.css">
